@@ -3,10 +3,14 @@
     "version": "23.0",
     "versionCode": "23000",
     "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk-files@23.0/app-release.apk",
-    "note": "https://topjohnwu.github.io/magisk/releases/23000.md"
+    "note": "https://raw.githubusercontent.com/mersimersi33/magisk/23.0/23000.md"
   },
   "stub": {
     "versionCode": "21",
     "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk-files@23.0/stub-release.apk"
+  },
+  "snet": {
+    "version": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk-files@23.0/snet"
   }
 }
