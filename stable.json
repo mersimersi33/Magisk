@@ -12,5 +12,33 @@
   "snet": {
     "version": "23",
     "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk-files@23.0/snet"
+  },
+  "snet": {
+    "version": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk-files@23.0/snet.jar"
+  },
+  "snet": {
+    "versionCode": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk-files@23.0/snet"
+  },
+  "snet": {
+    "versionCode": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk-files@23.0/snet.jar"
+  },
+  "snet": {
+    "version": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk@23.0/snet"
+  },
+  "snet": {
+    "version": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk@23.0/snet.jar"
+  },
+  "snet": {
+    "versionCode": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk@23.0/snet"
+  },
+  "snet": {
+    "versionCode": "23",
+    "link": "https://cdn.jsdelivr.net/gh/mersimersi33/magisk@23.0/snet.jar"
   }
 }
